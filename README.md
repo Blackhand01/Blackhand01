@@ -5,7 +5,6 @@
 - 💻 #AI and Data
 - 👨‍💻 #Coding
 - 📱 #Tech
-- 
 - 🍕 Turin, Italy | #IT
 
 ## Coding Language
