@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a blog**
  
  🌱 I’m currently learning **OpenAI API, MongoDB, AWS**
 
@@ -56,6 +56,12 @@
 </div>
 
 <hr/>
+<!-- Contribution Graph -->
+  <h2 align="center">📈 Contribution Graph 📈</h2>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Blackhand01&theme=react-dark" alt="contribution graph" />
+  
+  <br/><br/>
+  
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
