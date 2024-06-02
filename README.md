@@ -22,7 +22,7 @@
   <a href="mailto:bisiwork01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="linkedin.com/in/stefano-roy-bisignano" target="_blank">
+  <a href="linkedin.com/in/stefano-roy-bisignano-9100291b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Blackhand01/BisiPortfolio" target="_blank">
