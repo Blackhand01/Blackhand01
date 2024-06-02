@@ -7,7 +7,7 @@
 <h3 align="center">A passionate AI developer from Italy</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l1J9sNFNwCb0GO5Bq/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtkejU3ODNnenI0Y2w4bWgydmUxZndsZjdhaTRmMWp5dHVqOHFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N9s4o2LBoFQkaMUjvb/giphy.gif" width="300"/>
 </div>
 
 <br/>
