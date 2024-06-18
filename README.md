@@ -1,12 +1,15 @@
+![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
 </h1>
 
-<h3 align="center">A passionate AI developer from Italy</h3>
+<h3 align="center">A passionate AI developer from Italy <h3>
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtkejU3ODNnenI0Y2w4bWgydmUxZndsZjdhaTRmMWp5dHVqOHFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N9s4o2LBoFQkaMUjvb/giphy.gif" width="300"/>
 </div>
+
 
 <br/>
 
@@ -18,7 +21,7 @@
 
 💬 Ask me about **OpenAI, TensorFlow, GPTs... or anything [here](https://github.com/Blackhand01/BisiPortfolio/issues)**
 
-</div>
+ </div>
  
 <div align="center"> 
   <a href="mailto:bisiwork01@gmail.com">
@@ -32,7 +35,7 @@
   </a>
 </div>
 
-<hr/>
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -59,12 +62,6 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhand01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=exafunction%2Fcodeium.vim)
-
-I have accepted 542 completions in 9 different coding languages using Codeium from www.codeium.com
-<br/><br/>
-<img src="https://img.shields.io/badge/Codeium-542%20completions-orange" alt="Codeium completions badge" />
 
 <br/><br/>
 
