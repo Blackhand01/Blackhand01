@@ -60,6 +60,7 @@
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=exafunction%2Fcodeium.vim)
 
 I have accepted 542 completions in 9 different coding languages using Codeium from www.codeium.com
 <br/><br/>
