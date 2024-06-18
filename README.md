@@ -1,4 +1,3 @@
-![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
@@ -61,7 +60,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhand01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 <br/><br/>
 
