@@ -1,4 +1,4 @@
-![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
@@ -10,7 +10,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtkejU3ODNnenI0Y2w4bWgydmUxZndsZjdhaTRmMWp5dHVqOHFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N9s4o2LBoFQkaMUjvb/giphy.gif" width="300"/>
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
 
 <br/>
 
@@ -51,7 +50,8 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)
+<br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
