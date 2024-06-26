@@ -1,4 +1,5 @@
-![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
+![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
