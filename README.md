@@ -50,7 +50,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-[![autocomplete](https://codeium.com/badges/user/fondly-articulate-tilapia-34602/autocomplete)](https://codeium.com/profile/fondly-articulate-tilapia-34602)<br/><br/>
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 </div>
 
 
