@@ -50,7 +50,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-  ![image](https://github.com/Blackhand01/Blackhand01/assets/148461608/94f7034d-6265-46b7-8320-db6f5f3f8f39)
+  [![streak](https://codeium.com/badges/v2/user/fondly-articulate-tilapia-34602/streak)](https://codeium.com/profile/fondly-articulate-tilapia-34602)
 <br/><br/>
 </div>
 
