@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a blog**
+ 🔭 I’m currently working on several **AI App**
  
  🌱 I’m currently learning **OpenAI API, MongoDB, AWS**
 
