@@ -77,7 +77,7 @@
 
 ### Machine Translation Fine‑Tuning
 
-* Designed a unified end-to-end pipeline for fine-tuning language models on mechanical machinery manuals (IT→18 languages), covering key/source/target extraction, DPO conversion, and controlled paraphrase augmentation. Achieved a **+18 % BLEU** improvement and reduced experimentation time by **40 %**.
+* Designed a unified end-to-end pipeline for fine-tuning language models on mechanical machinery manuals (18 languages pairs), covering key/source/target extraction, DPO conversion, and controlled paraphrase augmentation. Achieved a **+18 % BLEU** improvement and reduced experimentation time by **40 %**.
 * Developed an automated monitoring and reporting system (Pandas, Matplotlib, openpyxl) to aggregate token usage, costs (USD/EUR), and accuracy, generating monthly Excel reports synced with OneDrive and cutting manual effort by **75 %**.
 
 ### OpenAI Assistant
