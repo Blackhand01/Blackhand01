@@ -90,6 +90,7 @@
 * Developed a CLI tool leveraging the OpenAI Responses API to automatically extract geometric and material parameters from spring CAD/PDF drawings, with base64 encoding and dynamic JSON Schema generation.
 * Created structured prompts for type, material, dimensions, and complex geometries, automating technical data extraction for precision spring manufacturing.
 
-*(Full résumé → see `/resume` folder or LinkedIn)*
+## 📄 My Full Resume
+You can view or download my full resume [Resume](https://github.com/Blackhand01/BisiPortfolio/blob/main/StefanoRoyBisignano_CV.pdf).
 
 ---
