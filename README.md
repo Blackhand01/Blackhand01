@@ -44,8 +44,8 @@
 | **BisiAgent007** | AI coding assistant (GPT‑4o + RAG) with semantic search, inline code edits & shell execution | 
 | **OnlyFly** *(HackUPC 2025)* | Home‑exchange + flight booking powered by AI matching & sustainability scoring | 🥈 4ᵗʰ/150 teams – Skyscanner challenge |
 | **PostGenius** *(GenAI.Works)* | RAG pipeline that turns news into posts, images, memes & videos | 📈 7ᵗʰ/4 500, boosts social‑media output |
-| **RCC‑SSL‑Classifiers** | SimCLR / MoCo / JEPA on 100 k WSIs → patient‑level RCC subtype discovery | 🏥 Toward label‑free cancer diagnostics |
-| **Affordance Highlighting** | Zero‑shot localization of functional regions on 3D objects via CLIP & neural fields | 🤖 Bridging language & embodied AI |
+| **RCC‑SSL‑Classifiers** | SimCLR / MoCo / JEPA on 100 k WSIs → patient‑level RCC subtype discovery |  |
+| **Affordance Highlighting** | Zero‑shot localization of functional regions on 3D objects via CLIP & neural fields |  |
 | **MLOps Finetuning Framework** | End‑to‑end pipeline for data prep, fine‑tuning, eval & deployment of LLMs | 📦 Reusable template for fast iterations |
 
 ---
