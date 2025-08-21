@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
 </h1><p align="center">
-  <em>Deep Learning Engineer | Research‑driven | Builder of AI‑powered products</em><br>
+  <em>Deep Learning Engineer | Research driven | Builder of AI powered products</em><br>
   <em>On a mission to turn state of the art research into real world impact</em>
 </p>
 
@@ -78,7 +78,7 @@
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
-## 📜 Selected Experience
+## 📜 Experiences
 
 ### Machine Translation Fine‑Tuning
 
