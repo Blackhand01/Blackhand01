@@ -7,8 +7,6 @@
   <em>On a mission to turn state of the art research into real world impact</em>
 </p>
 
-# Stefano Roy Bisignano — Deep Learning Engineer
-
 **I build production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring) and **hardware-aware ML** (edge benchmarking, constrained deployment).  
 **Target (2026):** MSc thesis - internship in **Zurich**.
 
@@ -32,22 +30,15 @@
 
 ---
 
-## Focus (what I want to be hired for)
-- **LLM Systems Engineering:** fine-tuning, evaluation, retrieval + grounding, tool calling, agent orchestration, reliability/observability
-- **Applied ML in industry:** measurable impact, cost/latency optimization, robust pipelines
-- **Systems-aware ML:** benchmarking on constrained hardware, deployment constraints, reproducibility
-
----
-
-## Proof of work (industry)
-**ML Engineer → ML Engineer Lead @ Simplex Rapid (Milan, Italy)**  
+## Industry
+**ML Engineer@ Simplex Rapid (Milan, Italy)**  
 - Multilingual translation pipeline (**20 languages**) → **~53% touchless rate**, reduced effort **~8,000h → ~2,350h (~71%)**, estimated **~76% cost reduction** (QA sampling + logs)  
 - Migrated an agentic assistant to **OpenAI Responses API** with tool calling + monitoring/tracing for reliability/auditability  
 - LLM+vision extraction for spring drawings/PDFs with per-field validation + HITL
 
 ---
 
-## Selected Projects (portfolio-grade)
+## Projects
 | Project | What it is | Evidence / Impact | Links |
 |---|---|---|---|
 | **Embedded Vision Trade-offs (Nicla Vision)** | On-device benchmark suite: accuracy/latency/RAM/Flash + protocol-driven eval | **49ms** best latency (Model A), Flash-efficient vs MobileNet baseline | [Repo](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) |
@@ -58,13 +49,6 @@
 | **SSL for RCC (WSI)** | SSL (MoCo v3 / DINO v3 / iBOT / I-JEPA) for pathology WSIs | Research pipeline + experiments | [Repo](https://github.com/Blackhand01/RCC-SSL) |
 
 ➡️ **Long-form case studies:** [BisiPortfolio](https://github.com/Blackhand01/BisiPortfolio)
-
----
-
-## About me (human)
-- I like **metrics-driven iteration**: ship a baseline fast, instrument it, then improve **quality / latency / cost** with tight feedback loops.
-- Outside work I’m fairly **frugal**, I train at the gym, and I spend weekends **skiing** when possible.
-- I also write to clarify my thinking (notes → posts), especially on **LLM systems + tokenization + deployment trade-offs**.
 
 ---
 
