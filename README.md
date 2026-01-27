@@ -1,9 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
+<!-- =========================  HERO SECTION  ========================= -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
+</h1><p align="center">
+  <em>Deep Learning Engineer | Research‑driven | Builder of AI‑powered products</em><br>
+  <em>On a mission to turn state of the art research into real world impact</em>
+</p>
 
 # Stefano Roy Bisignano — Deep Learning Engineer
 
 **I build production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring) and **hardware-aware ML** (edge benchmarking, constrained deployment).  
-**Target:** MSc thesis / internship / full-time in **Zurich** (2026).
+**Target (2026):** MSc thesis - internship in **Zurich**.
 
 <p align="center">
   <a href="https://github.com/Blackhand01/BisiPortfolio" target="_blank">
