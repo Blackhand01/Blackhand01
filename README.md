@@ -113,10 +113,3 @@
   <img alt="ARM" src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img alt="CMSIS-NN" src="https://img.shields.io/badge/CMSIS--NN-111111?style=for-the-badge" />
 </p>
-
----
-
-## Contact
-- Email: **bisiwork01@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/stefano-roy-bisignano-9100291b2
-- GitHub: https://github.com/Blackhand01
