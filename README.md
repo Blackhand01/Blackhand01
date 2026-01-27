@@ -39,7 +39,7 @@
 ---
 
 ## Projects
-| Project | What it is | Evidence / Impact | Links |
+| Project | What it is |  Impact | Links |
 |---|---|---|---|
 | **Embedded Vision Trade-offs (Nicla Vision)** | On-device benchmark suite: accuracy/latency/RAM/Flash + protocol-driven eval | **49ms** best latency (Model A), Flash-efficient vs MobileNet baseline | [Repo](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) |
 | **BisiAgent007** | Agentic coding assistant: RAG + semantic search + auto-edits | Builder signal: tool-use + workflows | [Repo](https://github.com/Blackhand01/BisiAgent007) |
