@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
 
-# Stefano Roy Bisignano — LLM Systems / ML Engineer (Zurich-targeted)
+# Stefano Roy Bisignano — Deep Learning Engineer
 
 **I build production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring) and **hardware-aware ML** (edge benchmarking, constrained deployment).  
 **Target:** MSc thesis / internship / full-time in **Zurich** (2026).
