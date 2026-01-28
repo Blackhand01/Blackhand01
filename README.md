@@ -41,14 +41,20 @@
 ## Projects
 | Project | What it is |  Impact | Links |
 |---|---|---|---|
-| **Embedded Vision Trade-offs (Nicla Vision)** | On-device benchmark suite: accuracy/latency/RAM/Flash + protocol-driven eval | **49ms** best latency (Model A), Flash-efficient vs MobileNet baseline | [Repo](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) |
-| **BisiAgent007** | Agentic coding assistant: RAG + semantic search + auto-edits | Builder signal: tool-use + workflows | [Repo](https://github.com/Blackhand01/BisiAgent007) |
-| **MLOps Fine-tuning Framework** | Templates for data prep → fine-tune → eval → deploy | Reusable pipeline baseline | [Repo](https://github.com/Blackhand01/mlops_finetuning_framework) |
-| **PostGenius (GenAI.Works 2024)** | RAG pipeline that turns news into posts/images/videos | **7th / 4,500** | [Repo](https://github.com/Blackhand01/PostGenius) |
-| **OnlyFly (HackUPC 2025)** | AI home-exchange + flight search MVP | **4th / 150+** (Skyscanner challenge) | [Repo](https://github.com/Blackhand01/OnlyFly) |
-| **SSL for RCC (WSI)** | SSL (MoCo v3 / DINO v3 / iBOT / I-JEPA) for pathology WSIs | Research pipeline + experiments | [Repo](https://github.com/Blackhand01/RCC-SSL) |
+| 🧠 Medical AI / Research | **RCC-SSL** | SSL pipeline for renal tumor subtyping on histopathology WSIs; patch-level + WSI-level aggregation and structured experiment tracking | [Repo](https://github.com/Blackhand01/RCC-SSL) |
+| 🧩 3D - VLM / Research | **Affordance Highlighting (3D)** | Research direction: language-conditioned highlighting on 3D objects (repo is a fork; used for experimentation) | [Repo](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024) |
+| ⚙️ Edge AI  | **Embedded Vision Trade-offs (Nicla Vision)** | Hardware-in-the-loop benchmarking: accuracy ↔ latency ↔ RAM/Flash; protocol-driven evaluation and reproducible runs | [Repo](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) |
+| 🛰️ Edge Prototype | **TinyHack2025 (MuseINO)** | On-device privacy-safe attention analytics prototype | [Repo](https://github.com/Blackhand01/TinyHack2025) |
+| 🧑‍🤝‍🧑 Multi-agent | **ZurichHackathon2025** | Multi-agent dialog-to-action prototype (hackathon repo) | [Repo](https://github.com/Blackhand01/ZurichHackathon2025) |
+| ✈️ Product Prototyping | **HackUPC-Spring2025 (OnlyFly)** | MVP-style engineering: matching + travel flow; hackathon-grade integration and delivery | [Repo](https://github.com/Blackhand01/HackUPC-Spring2025) |
+| 📰 RAG Apps | **PostGenius** | RAG-driven content pipeline (text/image/video) with an end-to-end product feel (demo/media included) | [Repo](https://github.com/Blackhand01/PostGenius) |
+| 🤖 LLM Tooling | **BisiAgent007** | Agentic coding assistant: RAG + semantic search + auto-edits; practical tool-use workflows | [Repo](https://github.com/Blackhand01/BisiAgent007) |
+| 🧰 LLMOps  | **MLOps Fine-tuning Framework** | End-to-end template: data prep → fine-tune → eval → deployment hygiene; built to iterate with metrics | [Repo](https://github.com/Blackhand01/mlops_finetuning_framework) |
+| 🧪 Vision Transformers | **Vision-Transformer** | ViT from scratch in PyTorch; custom image classification task + clean repo structure | [Repo](https://github.com/Blackhand01/Vision-Transformer) |
+| 🎮 Low-level | **quoridor** | Quoridor game in C (incl. ARM Assembly parts) — systems signal | [Repo](https://github.com/Blackhand01/quoridor) |
 
-➡️ **Long-form case studies:** [BisiPortfolio](https://github.com/Blackhand01/BisiPortfolio)
+
+➡️ **Long-form Portfolio:** [BisiPortfolio](https://github.com/Blackhand01/BisiPortfolio)
 
 ---
 
