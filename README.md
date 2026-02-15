@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackhand01.Blackhand01" />
-<!-- =========================  HERO SECTION  ========================= -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Stefano+Roy+Bisignano!;" />
 </h1><p align="center">
@@ -31,8 +30,7 @@
 ---
 
 ## Industry
-**ML Engineer@ Simplex Rapid (Milan, Italy)**  
-- Multilingual translation pipeline (**20 languages**) → **~53% touchless rate**, reduced effort **~8,000h → ~2,350h (~71%)**, estimated **~76% cost reduction** (QA sampling + logs)  
+**ML Engineer@ Simplex Rapid (Milan, Italy)** - Multilingual translation pipeline (**20 languages**) → **~53% touchless rate**, reduced effort **~8,000h → ~2,350h (~71%)**, estimated **~76% cost reduction** (QA sampling + logs)  
 - Migrated an agentic assistant to **OpenAI Responses API** with tool calling + monitoring/tracing for reliability/auditability  
 - LLM+vision extraction for spring drawings/PDFs with per-field validation + HITL
 
@@ -43,6 +41,7 @@
 |---|---|---|---|
 | 🧠 Medical AI / Research | **RCC-SSL** | SSL pipeline for renal tumor subtyping on histopathology WSIs; patch-level + WSI-level aggregation and structured experiment tracking | [Repo](https://github.com/Blackhand01/RCC-SSL) |
 | 🧩 3D - VLM / Research | **Affordance Highlighting (3D)** | Research direction: language-conditioned highlighting on 3D objects (repo is a fork; used for experimentation) | [Repo](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024) |
+| 🔤 Tokenization / Edge | **edge_tok** | Byte-level BPE tokenizer (Python/C) with provable streaming parity and deterministic edge constraints | [Repo](https://github.com/Blackhand01/gpt-tokenizer) |
 | ⚙️ Edge AI  | **Embedded Vision Trade-offs (Nicla Vision)** | Hardware-in-the-loop benchmarking: accuracy ↔ latency ↔ RAM/Flash; protocol-driven evaluation and reproducible runs | [Repo](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) |
 | 🛰️ Edge Prototype | **TinyHack2025 (MuseINO)** | On-device privacy-safe attention analytics prototype | [Repo](https://github.com/Blackhand01/TinyHack2025) |
 | 🧑‍🤝‍🧑 Multi-agent | **ZurichHackathon2025** | Multi-agent dialog-to-action prototype (hackathon repo) | [Repo](https://github.com/Blackhand01/ZurichHackathon2025) |
