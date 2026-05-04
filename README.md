@@ -48,7 +48,7 @@ Production AI for precision mechanics: translation, document automation, structu
 
 ### Privacy-Aware Medical AI
 
-Self-supervised learning for computational pathology. The preliminary academic phase is complete; the paper writing and follow-up work with pathologists are in progress. Code, metrics, and implementation details remain private until the publication path and IP review are mature.
+Self-supervised learning for computational pathology. The preliminary academic phase is complete; the paper writing and follow-up work with pathologists are in progress. Code, metrics, and implementation details remain private until the publication.
 
 | Dimension | Status |
 |---|---|
