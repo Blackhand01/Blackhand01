@@ -52,7 +52,7 @@ Self-supervised learning for computational pathology. The preliminary academic p
 
 | Dimension | Status |
 |---|---|
-| Research area | Self-supervised learning · medical image analysis |
+| Research area | SOTA Self-supervised learning model · medical image analysis |
 | Academic outcome | 30/30 with honors |
 | Publication status | Preliminary phase completed · manuscript and pathology collaboration in progress |
 | Source code / dataset / artifacts | Private — withheld until publication path and IP review are mature |
