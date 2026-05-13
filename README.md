@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=720&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Reliable+ML+Systems;Medical+AI+%26+Robotics;LLM+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=720&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Reliable+ML+Systems;Medical+AI+%26+Robotics;Humanoid+Motion+Diffusion;LLM+Automation" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://substack.com/@bisiroy"><img src="https://img.shields.io/badge/Writing-FF6600?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
-I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring) and **hardware-aware ML** (edge benchmarking, constrained deployment).
+I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **multimodal generative models** (diffusion, audio-conditioned motion), and **hardware-aware ML** (edge benchmarking, constrained deployment).
 
 ---
 
@@ -25,6 +25,7 @@ I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling 
 |---|---|---|
 | 🧠 Medical AI Research | SSL for computational pathology | 30/30 with honors · preliminary phase completed · paper writing and pathology collaboration in progress |
 | 🏭 Industrial LLM Systems | Simplex Rapid production workflows | ~53% touchless rate · ~76% cost reduction · 20 languages |
+| 🤖 Generative Robotics | Audio-conditioned humanoid motion diffusion | DDPM Transformer · SMPL/AIST++ · TSI 12.60 → 0.08 · biomechanical evaluation |
 | 🏁 Ranked Hackathon | HackUPC / Skyscanner | 4th / 150+ teams |
 | 🏁 Ranked Hackathon | GenAI.Works | 7th / 4,500 participants |
 
@@ -57,6 +58,18 @@ Self-supervised learning for computational pathology. The preliminary academic p
 | Publication status | Preliminary phase completed · manuscript and pathology collaboration in progress |
 | Source code / dataset / artifacts | Private — withheld until publication path and IP review are mature |
 
+### Humanoid-Motion-Diffusion
+
+Audio-conditioned whole-body humanoid trajectory synthesis with DDPM diffusion transformers over 24-joint SMPL pose sequences. The project is built as a research-grade pipeline around AIST++ motion/audio data, Temporal Cross-Attention, classifier-free guidance, EMA inference, and automated biomechanical diagnostics.
+
+| Dimension | Implementation |
+|---|---|
+| Generative Model | DDPM Transformer over 72D SMPL axis-angle motion tokens |
+| Multimodal Conditioning | Audio feature alignment · beat/chroma/tempo features · Temporal Cross-Attention |
+| Robotics Reliability | TSI, JLVR, BAS, self-collision risk, failure-case mining |
+| Optimized Result | TSI 12.60 → 0.08 · JLVR 6.0% · BAS 0.19 · self-collision 0.0004 |
+| Repository | [Humanoid-Motion-Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion) |
+
 ### Affordance 3D Highlighting
 
 Language-conditioned localization of functional regions on 3D objects for robotics-oriented perception.
@@ -75,6 +88,7 @@ Language-conditioned localization of functional regions on 3D objects for roboti
 | Project | Category | Signal |
 |---|---|---|
 | 🔤 [gpt-tokenizer](https://github.com/Blackhand01/gpt-tokenizer) | Low-level LLM tooling | Byte-level BPE · Python/C parity · deterministic streaming |
+| 🤖 [Humanoid-Motion-Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion) | Generative robotics | Audio-conditioned DDPM Transformer · SMPL/AIST++ · biomechanical validation |
 | ⚙️ [embedded-vision-tradeoffs-m7](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) | Edge AI benchmarking | Cortex-M7 · INT8 robustness · RAM/Flash/latency profiling |
 | 🛰️ [TinyHack2025 / MuseINO](https://github.com/Blackhand01/TinyHack2025) | Edge AI prototype | 24h Arduino Nicla Vision MVP · privacy-preserving attention analytics |
 | 🧑‍💻 [ZurichHackathon2025 / MAAS](https://github.com/Blackhand01/ZurichHackathon2025) | Multi-agent systems | 36h dialog-to-action · Apertus-8B · judge model · disagreement gate |
@@ -99,6 +113,7 @@ Language-conditioned localization of functional regions on 3D objects for roboti
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FF6E27?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Diffusion Models" src="https://img.shields.io/badge/Diffusion%20Models-111111?style=for-the-badge" />
   <img alt="Weights & Biases" src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 </p>
 <p align="center">
