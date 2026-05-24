@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=720&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Reliable+ML+Systems;Medical+AI+%26+Robotics;Humanoid+Motion+Diffusion;LLM+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Reliable+ML+Systems;Edge+Autonomy;Medical+AI+%26+Robotics;LLM+Automation" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://substack.com/@bisiroy"><img src="https://img.shields.io/badge/Writing-FF6600?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
-I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **multimodal generative models** (diffusion, audio-conditioned motion), and **hardware-aware ML** (edge benchmarking, constrained deployment).
+I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **edge autonomy stacks** (VLA loops, deterministic guardrails, PX4/MAVSDK), **multimodal generative models** (diffusion, audio-conditioned motion), and **hardware-aware ML** (edge benchmarking, constrained deployment).
 
 ---
 
@@ -23,6 +23,7 @@ I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling 
 
 | Area | Evidence | Metrics |
 |---|---|---|
+| 🛩️ Edge Autonomy | Edge-VLA-Micro VLA stack | PX4 SITL · Qwen2-VL + MAVSDK · HSV/Pydantic guardrails · 65.6% TTFT reduction |
 | 🧠 Medical AI Research | SSL for computational pathology | 30/30 with honors · preliminary phase completed · paper writing and pathology collaboration in progress |
 | 🏭 Industrial LLM Systems | Simplex Rapid production workflows | ~53% touchless rate · ~76% cost reduction · 20 languages |
 | 🤖 Generative Robotics | Audio-conditioned humanoid motion diffusion | DDPM Transformer · SMPL/AIST++ · TSI 12.60 → 0.08 · biomechanical evaluation |
@@ -87,6 +88,7 @@ Language-conditioned localization of functional regions on 3D objects for roboti
 
 | Project | Category | Signal |
 |---|---|---|
+| 🛩️ [Edge-VLA-Micro](https://github.com/Blackhand01/Edge-VLA-Micro) | Edge autonomy / VLA | PX4 SITL · Qwen2-VL + MLX-VLM · MAVSDK/PX4 · HSV/Pydantic safety guardrails · blackbox telemetry |
 | 🔤 [gpt-tokenizer](https://github.com/Blackhand01/gpt-tokenizer) | Low-level LLM tooling | Byte-level BPE · Python/C parity · deterministic streaming |
 | 🤖 [Humanoid-Motion-Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion) | Generative robotics | Audio-conditioned DDPM Transformer · SMPL/AIST++ · biomechanical validation |
 | ⚙️ [embedded-vision-tradeoffs-m7](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7) | Edge AI benchmarking | Cortex-M7 · INT8 robustness · RAM/Flash/latency profiling |
