@@ -15,7 +15,7 @@
   <a href="https://substack.com/@bisiroy"><img src="https://img.shields.io/badge/Writing-FF6600?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
-I build **production-grade LLM systems** (transfromers, fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **edge autonomy stacks** (VLA loops, NVIDIA Jetson, Arduino Nicla Vision), **multimodal generative models** (Diffusion Transformer, Temporal Cross-Attention).
+I build **production-grade LLM systems** (Fine-Tuning, Multi Agentic System, RAG, Reinforcement Learning), **edge autonomy stacks** (Visual Language Action, NVIDIA Jetson, Arduino Nicla Vision), **multimodal generative models** (Vision Transformer, Diffusion Transformer, Temporal Cross-Attention).
 
 ---
 
