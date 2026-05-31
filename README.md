@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Reliable+ML+Systems;Edge+Autonomy;Medical+AI+%26+Robotics;LLM+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Stefano+Roy+Bisignano;Vision-Language-Action+Robotics;Edge+Autonomy+on+Jetson;Medical+AI+Research" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://substack.com/@bisiroy"><img src="https://img.shields.io/badge/Writing-FF6600?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
-I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **edge autonomy stacks** (VLA loops, deterministic guardrails, PX4/MAVSDK), **multimodal generative models** (diffusion, audio-conditioned motion), and **hardware-aware ML** (edge benchmarking, constrained deployment).
+I build **production-grade LLM systems** (transfromers, fine-tuning, evaluation, tool-calling agents, RAG, monitoring), **edge autonomy stacks** (VLA loops, NVIDIA Jetson, Arduino Nicla Vision), **multimodal generative models** (Diffusion Transformer, Temporal Cross-Attention).
 
 ---
 
@@ -23,7 +23,7 @@ I build **production-grade LLM systems** (fine-tuning, evaluation, tool-calling 
 
 | Area | Evidence | Metrics |
 |---|---|---|
-| 🛩️ Edge Autonomy | Edge-VLA-Micro distributed VLA stack | Mac sensor node · Jetson Orin Nano brain · SmolVLM CUDA · PX4/MAVSDK · Pydantic/CV/state-machine safety |
+| 🛩️ Edge Autonomy | Edge-VLA-Micro distributed VLA stack | Mac sensor node · Jetson Orin Nano brain · SmolVLM CUDA · PX4/MAVSDK · Pydantic/CV/state-machine safety · 3.5GB peak RAM · 10.5 TPS |
 | 🧠 Medical AI Research | SSL for computational pathology | 30/30 with honors · preliminary phase completed · paper writing and pathology collaboration in progress |
 | 🏭 Industrial LLM Systems | Simplex Rapid production workflows | ~53% touchless rate · ~76% cost reduction · 20 languages |
 | 🤖 Generative Robotics | Audio-conditioned humanoid motion diffusion | DDPM Transformer · SMPL/AIST++ · TSI 12.60 → 0.08 · biomechanical evaluation |
@@ -48,7 +48,7 @@ Production AI for precision mechanics: translation, document automation, structu
 
 ## 🧠 Research
 
-### Privacy-Aware Medical AI
+### Self-Aupervised-Learning-Histopathology
 
 Self-supervised learning for computational pathology. The preliminary academic phase is complete; the paper writing and follow-up work with pathologists are in progress. Code, metrics, and implementation details remain private until the publication.
 
@@ -133,6 +133,8 @@ Language-conditioned localization of functional regions on 3D objects for roboti
 </p>
 <p align="center">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img alt="PX4" src="https://img.shields.io/badge/PX4-111111?style=for-the-badge" />
+  <img alt="MAVSDK" src="https://img.shields.io/badge/MAVSDK-111111?style=for-the-badge" />
   <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-111111?style=for-the-badge" />
   <img alt="MuJoCo" src="https://img.shields.io/badge/MuJoCo-111111?style=for-the-badge" />
   <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-111111?style=for-the-badge" />
